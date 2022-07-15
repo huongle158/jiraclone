@@ -1,0 +1,2 @@
+
+Mỗi lân click vào task nào dispatch dữ liệu của task đó lên redux
